@@ -1,0 +1,2 @@
+Check n_speakers:now 5
+Check non Kiswahili letters, like 'Q' and 'X'  

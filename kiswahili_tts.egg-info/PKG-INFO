@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: kiswahili-tts
+Version: 1.0.0
+Summary: This is a text to speech system in Kiswahili, inspired by the tts in english based on tacotron model and ljspeech dataset
+Home-page: https://github.com/Reaiot/TensorFlowTTS
+Author: Humphry Shikunzi
+Author-email: humphryshikunzi9@gmail.com
+License: Apache-2.0
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Intended Audience :: Science/Research
+Classifier: Operating System :: POSIX :: Linux
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Description-Content-Type: text/markdown
+Provides-Extra: test
+License-File: LICENSE
+
+ This is a text to speech system in Kiswahili, inspired by the tts in english based on tacotron model and ljspeech dataset, documentation would be updated.
+

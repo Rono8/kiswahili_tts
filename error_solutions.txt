@@ -1,0 +1,4 @@
+error - AttributeError: module 'typing' has no attribute '_ClassVar'
+sol   - pip uninstall TensorflowTTS -y
+        comment out the line with dataclassses in the requirements in setup.py
+        python .\setup.py install
