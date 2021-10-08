@@ -33,7 +33,19 @@ For the individual sentences, the format is id, text and normalised text each se
     Kiswa-00001 | Mithali za Sulemani,Mlango 1, Mithali za Suleimani | Mithali za Sulemani,Mlango wa kwanza, Mitahli za Suleimani
 
 ```
-Click [here]() for an example audio clip, it's for the above text.
+An example audio clip, it's for the above text, is below:
+
+
+<figure>
+    <figcaption>Listen to Kiswa-00001.wav:</figcaption>
+    <audio
+        controls
+        src="./Kiswa-00001.wav">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+</figure>
+
 
 # Background Research
 When doing research on Language Processing, an interesting concept that is important is the **Arpabets**, the original TTS was done on English text, but because we want to do it for Kiswahili we will need to use the Kisahili  Arpabets. Below is the list of Kiswahili Arpabets
