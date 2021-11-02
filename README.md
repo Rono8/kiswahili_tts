@@ -323,7 +323,7 @@ python ./examples/melgan/train_melgan.py --train-dir ./data/preprocess_dir/dump/
 
 ```
 # Results
-For a test of the model that was trained on 150k iterations, download it from google drive [here]() and test it on your own kiswahili sentence.
+For a test of the model that was trained on 150k iterations, download it from google drive [here](https://drive.google.com/file/d/1-LvxuDxfxJ8CyUurNkjeo_lXiQeXfuMY/view?usp=sharing) and test it on your own kiswahili sentence.
 You could even perform more training or fine tuning the model to get optimal results and contribute to this work. Just make a pull request or contact via email through
 the contact provided at the end of this readme file.
 # Common Errors and Fixes
