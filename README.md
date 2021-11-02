@@ -322,7 +322,10 @@ if after sometime the training stops and you would want to resume, kindly use th
 python ./examples/melgan/train_melgan.py --train-dir ./data/preprocess_dir/dump/train/ --dev-dir ./data/preprocess_dir/dump/valid/ --outdir ./examples/melgan/exp/train.melgan.v2/ --config ./examples/melgan/conf/melgan.v2.yaml --resume ""
 
 ```
-
+# Results
+For a test of the model that was trained on 150k iterations, download it from google drive [here]() and test it on your own kiswahili sentence.
+You could even perform more training or fine tuning the model to get optimal results and contribute to this work. Just make a pull request or contact via email through
+the contact provided at the end of this readme file.
 # Common Errors and Fixes
 Some of the errors encounted due to compatibility issues of modules, and their solutions are:
 
