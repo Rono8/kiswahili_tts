@@ -353,6 +353,6 @@ kiptookelvin96@gmail.com
 [Apache 2.0](http://www.apache.org/licenses/LICENSE-2.0) 
 
 # Acknowledgement
-Much thanks to the team that helped in working on data preprocessing, which included manually relating textfiles to their corresponding audio files.
+Much thanks to the team that helped work on data processing, which included manually relating textfiles to their corresponding audio files.
 
-I am also grateful to my research supervisors, Dr. Ciira Maina, Director of the Center for Data Science and Artificial Intelligence, and Prof Elijah Mwangi, School of Engineering, University of Nairobi, who have been insightful throughout this research project. Their counsel, guidance, and expert opinions I received are invaluable
+I am also grateful to my research supervisors, Dr. Ciira Maina, Director of the Center for Data Science and Artificial Intelligence, and Prof Elijah Mwangi, School of Engineering, University of Nairobi, who have offered significant assistance throughout this research project.
