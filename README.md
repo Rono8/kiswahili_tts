@@ -20,8 +20,8 @@ A total of 7108 sentences was obtained, ranging for 5 different books.
 # Data Preprocessing  
 For data processing, the format followed was like the [ljspeech dataset](https://keithito.com/LJ-Speech-Dataset/).
 
-The audio files were programatically split into short audio clips based on silence. They were then combined based on a random length such that each of eventual audio file lies between 1 to 10 seconds as its for the ljspeech dataset, but still maintaining the order in whcih they followed each other.
-This was done using python 3. The audio files were then saved as mono.
+The audio files were programatically split into short audio clips based on silence. They were then combined based on a random length such that each of eventual audio file lies between 1 to 10 seconds as its for the ljspeech dataset, but still maintaining the order in which they followed each other.
+This was done using python 3. The audio files were saved as a single channel,16 PCM WAVE file with a sampling rate of 22.05 kHz
 
 The texts for each of the audio files were then manually mapped by listening to each of the audio file. At the end, a total of 7108 lines of sentences were obtained, corresponding to the audio clips.
 
