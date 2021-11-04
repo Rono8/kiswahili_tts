@@ -326,6 +326,10 @@ python ./examples/melgan/train_melgan.py --train-dir ./data/preprocess_dir/dump/
 For a test of the model that was trained on 150k iterations, download it from google drive [here](https://drive.google.com/file/d/1-LvxuDxfxJ8CyUurNkjeo_lXiQeXfuMY/view?usp=sharing) and test it on your own kiswahili sentence.
 You could even perform more training or fine tuning the model to get optimal results and contribute to this work. Just make a pull request or contact via email through
 the contact provided at the end of this readme file.
+# Kiswahili TTS Synthesis
+The system is available and can be accessed using the link below
+https://colab.research.google.com/drive/1ZeVzLsujBp8I3Eh1lZZlF2HCqoQSflKe?usp=sharing
+
 # Common Errors and Fixes
 Some of the errors encounted due to compatibility issues of modules, and their solutions are:
 
