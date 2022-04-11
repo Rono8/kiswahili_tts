@@ -330,7 +330,7 @@ the contact provided at the end of this readme file.
 
 # Kiswahili TTS Synthesis
 The system is available and can be accessed using the link below
-https://colab.research.google.com/drive/1ZeVzLsujBp8I3Eh1lZZlF2HCqoQSflKe?usp=sharing
+https://colab.research.google.com/drive/17ZZKB54T1cdPB6j47wBDkADG8UMW1jQd
 
 If you have followed all the above steps and would want to test this model and see its performance, you can use the code below:
 
@@ -472,4 +472,4 @@ kiptookelvin96@gmail.com
 # Acknowledgement
 Much thanks to the team that helped work on data processing, which included manually relating textfiles to their corresponding audio files.
 
-I am also grateful to my research supervisors, Dr. Ciira Maina, Director of the Center for Data Science and Artificial Intelligence, and Prof Elijah Mwangi, School of Engineering, University of Nairobi, who have offered significant assistance throughout this research project.
+I am also grateful to my research supervisors, Dr. Ciira Maina, Director of the Center for Data Science and Artificial Intelligence, and Prof Elijah Mwangi, Faculty of Engineering, University of Nairobi, who have offered significant assistance throughout this research project.
