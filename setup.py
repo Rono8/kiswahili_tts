@@ -43,7 +43,7 @@ requirements = {
         "textgrid",
         "click",
         "g2p_en",
-        "numpy==1.0.0",
+        "numpy==1.3.0",
         "gast==0.3.3"
 
         #"dataclasses",
