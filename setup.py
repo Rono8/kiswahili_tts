@@ -22,16 +22,16 @@ if LooseVersion(pip.__version__) < LooseVersion("19"):
 # TODO(@dathudeptrai) update requirement if needed.
 requirements = {
     "install": [
-        "tensorflow-gpu==2.3.0",
-        "tensorflow-addons==0.12.1	",
+        "tensorflow-gpu>=2.3.0",
+        "tensorflow-addons>=0.12.1	",
         "setuptools>=38.5.1",
-        "huggingface_hub==0.0.8",
+        "huggingface_hub>=0.0.8",
         "librosa>=0.7.0",
         "soundfile>=0.10.2",
         "matplotlib>=3.1.0",
         "PyYAML>=3.12",
         "tqdm>=4.26.1",
-        "h5py==2.10.0",
+        "h5py>=2.10.0",
         "unidecode>=1.1.1",
         "inflect>=4.1.0",
         "scikit-learn>=0.22.0",
@@ -43,8 +43,8 @@ requirements = {
         "textgrid",
         "click",
         "g2p_en",
-        "numpy==1.17.3",
-        "gast==0.3.3"
+        "numpy>=1.17.3",
+        "gast>=0.3.3"
 
         #"dataclasses",
     ],
