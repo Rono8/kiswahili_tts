@@ -45,6 +45,10 @@ requirements = {
         "g2p_en",
         "numpy>=1.17.3",
         "gast>=0.3.3"
+        "flatbuffers<2"
+        "keras<2.10.0"
+        "tensorboard<2.10"
+        "tensorflow-estimator<2.10.0"
 
         #"dataclasses",
     ],
